@@ -4,13 +4,21 @@
 
     git clone --depth=1 https://github.com/dedenbangkit/tmux-cfg.git ~/tmux-cfg
     sh ~/tmux-cfg/install.sh
+    tmux
+    <prefix> I
+    tmux source ~/.tmux.conf
 
 ## Installing Plugin
 Open TMUX
+
 	tmux
+	
 Install plugins, read more at https://github.com/tmux-plugins/tpm
+
 	<prefix> I
+	
 Reload TMUX Configuration
+
 	tmux source ~/.tmux.conf
 
 
