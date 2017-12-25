@@ -6,9 +6,11 @@
     sh ~/tmux-cfg/install.sh
 
 ## Installing Plugin
-
+Open TMUX
     tmux
-    ctrl+b I to install
+Install plugins, read more at https://github.com/tmux-plugins/tpm
+    ctrl+b I
+Reload TMUX Configuration
     tmux source ~/.tmux.conf
 
 
