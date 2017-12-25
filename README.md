@@ -7,10 +7,10 @@
 
 ## Installing Plugin
 Open TMUX
-    tmux
+	tmux
 Install plugins, read more at https://github.com/tmux-plugins/tpm
-    ctrl+b I
+	<prefix> I
 Reload TMUX Configuration
-    tmux source ~/.tmux.conf
+	tmux source ~/.tmux.conf
 
 
