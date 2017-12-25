@@ -1,0 +1,7 @@
+pane	0	0	:bash	0	:-	0	:/Users/dedenbangkit	1	bash	:
+pane	0	1	:bash	1	:*	0	:/Users/dedenbangkit	0	vim	:vim /Users/dedenbangkit/.tmux.conf
+pane	0	1	:bash	1	:*	1	:/Users/dedenbangkit	0	bash	:
+pane	0	1	:bash	1	:*	2	:/Users/dedenbangkit/.vim_runtime	1	bash	:
+window	0	0	0	:-	bb5d,238x62,0,0,0
+window	0	1	1	:*	97f0,238x62,0,0{119x62,0,0[119x41,0,0,2,119x20,0,42,4],118x62,120,0,3}
+state	0	
